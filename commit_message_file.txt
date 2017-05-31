@@ -1,6 +1,3 @@
-
-fix:
-
-Implement ContentDescription in all the buttons.
+fix: Implement ContentDescription in all buttons
 
 Help the most special users to navigate through the content. 
